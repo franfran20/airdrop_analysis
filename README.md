@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive set of files and models used for classifying the time range during which an airdrop token is sold off by a wallet after a specific period of time. The training samples used in the analysis were obtained from the Optimism Airdrop 2 dataset. Below is a detailed guide to the files within the repository:
 
-- `classified_data`: This file contains labeled data from the Optimism Airdrop 2 dataset and DeepDao's List 1 and 2, based on their respective sell-off dates.
+- [**classified_data**](https://github.com/franfran20/airdrop_analysis/tree/main/classified_data): This file contains labeled data from the Optimism Airdrop 2 dataset and DeepDao's List 1 and 2, based on their respective sell-off dates.
 
 - [**data**](https://github.com/franfran20/airdrop_analysis/tree/main/data): This file contains unprocessed and unlabeled raw data.
 
