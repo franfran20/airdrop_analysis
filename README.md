@@ -18,6 +18,6 @@ This repository contains a comprehensive set of files and models used for classi
 
 - [**Modelling.ipynb**](https://github.com/franfran20/airdrop_analysis/blob/main/Modelling.ipynb): This is a Jupyter notebook file containing code used for feature engineering and modeling.
 
-- [**DDA.ipynb**](https://github.com/franfran20/airdrop_analysis/blob/main/Analysist.ipynb): This is a Jupyter notebook file containing code for data analysis on the addresses provided in DeepDao's List.
+- [**DDA.ipynb**](https://github.com/franfran20/airdrop_analysis/blob/main/DDA.ipynb): This is a Jupyter notebook file containing code for data analysis on the addresses provided in DeepDao's List.
 
 - [**Classifier.py**](https://github.com/franfran20/airdrop_analysis/blob/main/Classifier.py): This is a Python script used for running the classification model. It takes in an Ethereum address and outputs the likely sell date.
